@@ -1,0 +1,2 @@
+# scdjango
+sc site
